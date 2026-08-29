@@ -34,7 +34,7 @@ Repository ini berisi jurnal pemeliharaan padi varietas **MR 337** dari tanam sa
 
 ## 🌐 Akses Jurnal
 Jurnal lengkap bisa diakses di:  
-[https://aldyzull.github.io/Jurnal-padi/](https://aldyzull.github.io/Jurnal-padi-v6/)
+[https://aldyzull.github.io/Jurnal-padi-v6/](https://aldyzull.github.io/Jurnal-padi-v6/)
 
 ---
 
